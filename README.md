@@ -1,2 +1,3 @@
 # Hexaware_Assignment
-SQL Coding Challenges
+Solution of Coding Challenges given in class
+
